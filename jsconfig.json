@@ -1,0 +1,8 @@
+/**
+ * Helper config to set baseUrl to easily use absolute paths as needed
+ */
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
