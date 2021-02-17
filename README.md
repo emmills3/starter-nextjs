@@ -3,16 +3,16 @@
 A starter setup for a basic NextJS app, includes basic packages for deployment and simple configurations.
 
 **Basic configs:**
-• jsconfig.json - Reset baseUrl to allow easy use of absolute paths
-• .env - Basic, repo controlled config with public, non-sensitive environment data/keys/variables
-• .env.development - Developement only .env file
-• .env.production - Production only .env file
-• .env.local - Non-repo controlled confif for sensitive environment data/keys/variables *(Must be created separately)*
+- jsconfig.json - Reset baseUrl to allow easy use of absolute paths
+- .env - Basic, repo controlled config with public, non-sensitive environment data/keys/variables
+- .env.development - Developement only .env file
+- .env.production - Production only .env file
+- .env.local - Non-repo controlled confif for sensitive environment data/keys/variables *(Must be created separately)*
 
 **For server support:**
-• pm2 (https://github.com/Unitech/pm2)
-• cross-var (https://github.com/elijahmanor/cross-var)
-• dotenv-cli (https://github.com/entropitor/dotenv-cli)
+- pm2 (https://github.com/Unitech/pm2)
+- cross-var (https://github.com/elijahmanor/cross-var)
+- dotenv-cli (https://github.com/entropitor/dotenv-cli)
 
 ## Basic
 
